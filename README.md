@@ -2,7 +2,7 @@
 
 Simple Spotify main page clone.
 
-## **Note**
+## Note
 
 This is my first attempt of making a spotify main-page clone with responsive design, using bootstrap. 
 
@@ -10,11 +10,12 @@ This is my first attempt of making a spotify main-page clone with responsive des
 
 Feel free to save the folder in any directory you want.
 
-### Executing program
-
 - Extract the folder and put the files in one place.
 - Open the HTML folder
 - Open the index.html
+
+### Available on Github Page
+See on Github Page [Spotify Clone](https://jorgeluizb.github.io/Spotify-Clone/)
 
 ## Authors
 
