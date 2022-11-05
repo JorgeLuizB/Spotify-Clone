@@ -2,7 +2,7 @@
 
 Simple Spotify main page clone.
 
-## Note
+## **Note**
 
 This is my first attempt of making a spotify main-page clone with responsive design, using bootstrap. 
 
@@ -25,6 +25,6 @@ Jorge Luiz Barbosa
 
 There is no license. feel free to copy and paste as you like.
 
-# Inspiration
+## Inspiration
 
 [Udemy Course](https://www.udemy.com/course/web-completo/)
