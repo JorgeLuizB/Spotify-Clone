@@ -12,9 +12,9 @@ Feel free to save the folder in any directory you want.
 
 ### Executing program
 
-*Extract the folder and put the files in one place.
-*Open the HTML folder
-*Open the index.html
+- Extract the folder and put the files in one place.
+- Open the HTML folder
+- Open the index.html
 
 ## Authors
 
