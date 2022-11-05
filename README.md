@@ -26,5 +26,5 @@ Jorge Luiz Barbosa
 There is no license. feel free to copy and paste as you like.
 
 ## Inspiration
-
-[Udemy Course](https://www.udemy.com/course/web-completo/)
+Inspired by a project from this course.
+[Desenvolvimento Web Completo 2022](https://www.udemy.com/course/web-completo/)
