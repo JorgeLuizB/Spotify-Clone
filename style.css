@@ -2,7 +2,7 @@ html,body{
     height: 100%;
 }
 body{
-    background: url('images/capa.png'), url('/images/ruido.png'), linear-gradient(50deg,#ff4169,#7c26f8);
+    background: url('images/capa.png'), url('images/ruido.png'), linear-gradient(50deg,#ff4169,#7c26f8);
     background-attachment: fixed;
     font-family: Helvetica, Arial,  sans-serif;
     animation-name: anim-background;
